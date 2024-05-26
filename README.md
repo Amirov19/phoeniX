@@ -6,6 +6,7 @@
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/phoeniX-Digital-Design/phoeniX/blob/main/Documents/Images/phoenix_full_logotype_bb.png" width="530" height="150" style="vertical-align:middle">
     <img alt="logo in light mode and dark mode" src="https://github.com/phoeniX-Digital-Design/phoeniX/blob/main/Documents/Images/phoenix_full_logotype.png" width="530" height="150" style="vertical-align:middle"> 
+      <img alt="logo in light mode and dark mode" src="../phoeniX/Software/User_Codes/tasks/image-1.png" width="530" height="150" style="vertical-align:middle"> 
 </picture> 
 
 <div align="justify">

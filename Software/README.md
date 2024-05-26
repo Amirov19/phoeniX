@@ -9,19 +9,7 @@ Computer Organization - Spring 2024
 ## Report
 
 ### Quick Sort
-QuickSort is a way of Sorting data, Which you can tell by the name.
- THe Algorhitm in this method:
-Assuming we have some integers.
-We also have two indexes: Current Index & Swap Marker
-the furthest integer from the start is the Pivot Value, AKA, PV.
-in this alghorithm, we compare the starting Vlaue With PV.
-in the first attempt, If our current state value is bigger than PV, The Current Index sums by 1 and passes.
-And If It is equal or smaller than PV, Swap Marker sums by 1; We continue by comparing the place of Current Index and Swap Marker. If they are in the same spot(Have the same Value),
-The Current Index sums by 1 and passes. but if the Current Index is ahead(has more value) comparing to Swap MArker, We Change The Place Of their Values.
-We continue till we finish and the Current Index Reaches the final, then gudging by the PV's place, We divide our data into to parts:
-1 elements smaller than PV
-2 elements larger than PV
-Now we sort Each Half seperately and it goes on and on till All the data is stablized
+QuickSort is a sorting technique characterized by its methodical approach to arranging data. The algorithm involves the utilization of two key indices: the Current Index and the Swap Marker. Within this framework, the Pivot Value (PV) is identified as the farthest integer from the initial position. The algorithm proceeds by evaluating the initial value in comparison to the PV. During the first iteration, if the value at the current position exceeds the PV, the Current Index is incremented by one and the process advances. Conversely, if the value is equivalent to or less than the PV, the Swap Marker is incremented by one. Subsequent steps involve comparing the positions of the Current Index and the Swap Marker. If they coincide, indicating the same value, the Current Index is advanced by one. However, if the Current Index surpasses the Swap Marker, a swap operation is performed to reposition their respective values. Progress continues until the Current Index reaches the final position. At this juncture, based on the PV's location, the data is partitioned into two distinct subsets: elements smaller than PV and elements larger than PV. Each subset is then sorted independently, iteratively stabilizing the dataset until all elements are appropriately arranged.
 
 ```
 #input assignment
