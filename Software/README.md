@@ -65,5 +65,5 @@ source = `https://github.com/cgyurgyik/riscv-assembly/blob/master/quicksort.s`
 ![GTKWave Outputs](image.png)
 
 <picture>
-      <img alt="logo in light mode and dark mode" src="../phoeniX/Software/User_Codes/tasks/image-1.png" width="530" height="150" style="vertical-align:middle"> 
+      <img alt="logo in light mode and dark mode" src="https://github.com/Amirov19/phoeniX/blob/main/Software/User_Codes/tasks/image-1.png" width="530" height="150" style="vertical-align:middle"> 
 </picture> 
